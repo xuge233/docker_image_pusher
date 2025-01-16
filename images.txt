@@ -8,3 +8,5 @@ mysql
 registry
 jenkins/jenkins:lts
 mysql:5.7
+zabbix/zabbix-server-mysql:alpine-4.0-latest
+zabbix/zabbix-web-nginx-mysql:alpine-4.0-latest
