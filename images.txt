@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql
 registry
 jenkins/jenkins:lts
+mysql:5.7
